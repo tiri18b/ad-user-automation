@@ -1,0 +1,3 @@
+FirstName,LastName,Username,Password,OU,Group
+David,Cohen,dcohen,P@ssw0rd123,"OU=Users,DC=corp,DC=local",IT-Users
+Maya,Levi,mlevi,P@ssw0rd123,"OU=Users,DC=corp,DC=local",IT-Users
